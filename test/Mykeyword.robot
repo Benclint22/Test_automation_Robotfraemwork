@@ -36,8 +36,3 @@ Verify Logged In User Profile
 
 Close Browser Session
     Close Browser
-
-#Topic Breakdown Overview
-#QA Test Design: BVA, EP, Severity vs. Priority matrix, and STLC phases.
-#API Testing: HTTP status codes, HTTP methods (PUT vs. PATCH), headers, and JSON structure indexing.
-#Web Locators: CSS attributes, XPath axes (following-sibling), and dynamic waits vs. hard sleeps.
