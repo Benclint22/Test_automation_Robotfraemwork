@@ -41,4 +41,3 @@ Close Browser Session
 #QA Test Design: BVA, EP, Severity vs. Priority matrix, and STLC phases.
 #API Testing: HTTP status codes, HTTP methods (PUT vs. PATCH), headers, and JSON structure indexing.
 #Web Locators: CSS attributes, XPath axes (following-sibling), and dynamic waits vs. hard sleeps.
-#Basic Scripting: List comprehensions, dictionary counters, regex pattern matching, and SQL (HAVING / GROUP BY).
