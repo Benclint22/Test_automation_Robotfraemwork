@@ -43,4 +43,4 @@ Delete Existing Pet
     [Tags]             bender    delete
     Create Session     pet_session    ${BASE_URL}    verify=true
     ${response}=       DELETE On Session    pet_session    /pet/${PET_ID}
-    Status Should Be   350                  ${response}
+    Status Should Be   200                 ${response}
